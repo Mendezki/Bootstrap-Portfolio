@@ -9,3 +9,11 @@ body {
     padding: 30;
     background-color: #FFFFFF;
 }
+@media (max-width: 640px) {
+    .card-title {
+    visibility:hidden;
+    }
+    .card {
+    padding: 5;
+    }
+}
