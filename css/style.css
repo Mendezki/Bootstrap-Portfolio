@@ -1,0 +1,11 @@
+
+body {
+    background: url('../images/wavy-dots.png') repeat;
+    display: inline;
+    position: static;
+}
+.card{
+    margin: 70;
+    padding: 30;
+    background-color: #FFFFFF;
+}
